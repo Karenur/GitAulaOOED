@@ -1,0 +1,13 @@
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.exe.config
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.pdb
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.csprojResolveAssemblyReference.cache
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.pdb
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.exe.config
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.exe
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\bin\Debug\Laboratorio1-IMC.pdb
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.csproj.AssemblyReference.cache
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.csproj.CoreCompileInputs.cache
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.exe
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio1-IMC\Laboratorio1-IMC\obj\Debug\Laboratorio1-IMC.pdb
