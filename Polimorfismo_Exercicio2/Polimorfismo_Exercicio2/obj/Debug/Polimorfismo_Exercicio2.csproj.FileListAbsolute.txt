@@ -1,0 +1,6 @@
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\bin\Debug\Polimorfismo_Exercicio2.exe.config
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\obj\Debug\Polimorfismo_Exercicio2.csprojResolveAssemblyReference.cache
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\bin\Debug\Polimorfismo_Exercicio2.exe
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\bin\Debug\Polimorfismo_Exercicio2.pdb
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\obj\Debug\Polimorfismo_Exercicio2.exe
+C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Polimorfismo_Exercicio2\Polimorfismo_Exercicio2\obj\Debug\Polimorfismo_Exercicio2.pdb
