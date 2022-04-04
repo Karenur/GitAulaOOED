@@ -1,0 +1,6 @@
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\bin\Debug\Aula01_ProjetoCarro.exe.config
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\obj\Debug\Aula01_ProjetoCarro.csprojResolveAssemblyReference.cache
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\bin\Debug\Aula01_ProjetoCarro.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\bin\Debug\Aula01_ProjetoCarro.pdb
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\obj\Debug\Aula01_ProjetoCarro.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula01_ProjetoCarro\Aula01_ProjetoCarro\obj\Debug\Aula01_ProjetoCarro.pdb

@@ -1,0 +1,6 @@
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\bin\Debug\Aula1_Classe.exe.config
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\bin\Debug\Aula1_Classe.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\bin\Debug\Aula1_Classe.pdb
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\obj\Debug\Aula1_Classe.csprojResolveAssemblyReference.cache
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\obj\Debug\Aula1_Classe.exe
+C:\Users\1924070022\Documents\OrientacaoObjeto\codigos\Aula1_Classe\Aula1_Classe\obj\Debug\Aula1_Classe.pdb
