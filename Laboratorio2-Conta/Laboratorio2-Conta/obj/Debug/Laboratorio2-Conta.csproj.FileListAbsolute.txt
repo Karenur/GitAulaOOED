@@ -1,6 +1,0 @@
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\bin\Debug\Laboratorio2-Conta.exe.config
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\bin\Debug\Laboratorio2-Conta.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\bin\Debug\Laboratorio2-Conta.pdb
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\obj\Debug\Laboratorio2-Conta.csprojResolveAssemblyReference.cache
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\obj\Debug\Laboratorio2-Conta.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Laboratorio2-Conta\Laboratorio2-Conta\obj\Debug\Laboratorio2-Conta.pdb

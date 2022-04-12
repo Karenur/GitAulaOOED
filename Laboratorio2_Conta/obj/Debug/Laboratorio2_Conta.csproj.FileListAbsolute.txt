@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\bin\Debug\Laboratorio2_Conta.exe.config
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\bin\Debug\Laboratorio2_Conta.exe
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\bin\Debug\Laboratorio2_Conta.pdb
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\obj\Debug\Laboratorio2_Conta.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\obj\Debug\Laboratorio2_Conta.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\obj\Debug\Laboratorio2_Conta.exe
+C:\Users\mateu\Documents\Iesb\POO_ED\Laboratorio2_Conta\obj\Debug\Laboratorio2_Conta.pdb
