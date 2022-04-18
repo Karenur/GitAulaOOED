@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\bin\Debug\Interface_Cartapio.exe.config
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\bin\Debug\Interface_Cartapio.exe
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\bin\Debug\Interface_Cartapio.pdb
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\obj\Debug\Interface_Cartapio.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\obj\Debug\Interface_Cartapio.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\obj\Debug\Interface_Cartapio.exe
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Interface_Cartapio\obj\Debug\Interface_Cartapio.pdb

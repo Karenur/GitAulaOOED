@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\bin\Debug\Aula03-Exercicio2(FigurasGeometricas).exe.config
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\bin\Debug\Aula03-Exercicio2(FigurasGeometricas).exe
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\bin\Debug\Aula03-Exercicio2(FigurasGeometricas).pdb
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\obj\Debug\Aula03-Exercicio2(FigurasGeometricas).csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\obj\Debug\Aula03-Exercicio2(FigurasGeometricas).csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\obj\Debug\Aula03-Exercicio2(FigurasGeometricas).exe
+C:\Users\mateu\Documents\Iesb\POO_ED\aula03\Aula03-Exercicio2(FigurasGeometricas)\obj\Debug\Aula03-Exercicio2(FigurasGeometricas).pdb
