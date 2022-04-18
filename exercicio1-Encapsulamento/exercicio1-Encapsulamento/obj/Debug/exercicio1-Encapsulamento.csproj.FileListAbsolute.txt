@@ -1,6 +1,0 @@
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\bin\Debug\exercicio1-Encapsulamento.exe.config
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\bin\Debug\exercicio1-Encapsulamento.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\bin\Debug\exercicio1-Encapsulamento.pdb
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\obj\Debug\exercicio1-Encapsulamento.csprojResolveAssemblyReference.cache
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\obj\Debug\exercicio1-Encapsulamento.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Encapsulamento\exercicio1-Encapsulamento\exercicio1-Encapsulamento\obj\Debug\exercicio1-Encapsulamento.pdb

@@ -1,6 +1,0 @@
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\bin\Debug\Heranca_Exercicio1.exe.config
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\obj\Debug\Heranca_Exercicio1.csprojResolveAssemblyReference.cache
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\bin\Debug\Heranca_Exercicio1.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\bin\Debug\Heranca_Exercicio1.pdb
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\obj\Debug\Heranca_Exercicio1.exe
-C:\Users\1924070022\Documents\mateus\OrientacaoObjeto\codigos\Heranca_Exercicio1\Heranca_Exercicio1\obj\Debug\Heranca_Exercicio1.pdb
