@@ -56,24 +56,43 @@ namespace Laboratorio2_ContaAcme_correcao_
 
         }
 
-
-
         public double VerificarSaldo()
         {
             return saldoAtual;
         }
+
         public void DepositarQuantia(double quantia)
         {
-            saldoAtual += quantia;
+            AumentarSaldo(quantia);
         }
 
         protected void RedusirSaldo(double quantia)
         {
             saldoAtual -= quantia;
         }
-        protected void AlmentarSaldo(double quantia)
+
+        protected void AumentarSaldo(double quantia)
         {
             saldoAtual += quantia;
         }
+        //public void RealizarDeposito(Conta conta, double quantia)
+        //{
+        //    conta.DepositarQuantia(quantia);
+        //    Console.WriteLine($"{conta.NomeCorrentista} depositou {quantia.ToString("C")} em sua conta");
+        //}
+
+        //public void RealizarSaque(Conta conta, double quantia)
+        //{
+            
+        //    Console.WriteLine($"{conta.NomeCorrentista} depositou {quantia.ToString("C")} em sua conta");
+        //}
+
+        //public void RealizarTransferencia(Conta contaOrigem, Conta contaDestino, double quantia)
+        //{
+        //      contaOrigem.TransferirParaOutraConta(quantia, contaDestino);
+
+        //}
+
     }
+
 }

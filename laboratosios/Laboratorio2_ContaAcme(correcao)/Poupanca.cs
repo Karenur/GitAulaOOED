@@ -8,21 +8,22 @@ namespace Laboratorio2_ContaAcme_correcao_
 {
     class Poupanca :Conta
     {
+        const double tarifaSaque = 0.20 / 100;
+        const double tarifaTransferir = 0.15 / 100;
 
-
-        public Poupanca(string numeroConta, string nomeCorrentista, double saldoAtual) : base(numeroConta, nomeCorrentista)
+        public Poupanca(string numeroConta, string nomeCorrentista) : base(numeroConta, nomeCorrentista)
         {
 
         }
 
-        public override void Sacar()
+        public void Sacar(double quantia)
         {
-            throw new NotImplementedException();
+            base.Sacar(quantia, tarifaSaque);
         }
 
-        public override void TransferirParaOutraConta(double quantia, Conta contaDestino)
+        public void TransferirParaOutraConta(double quantia, Conta outraConta)
         {
-            throw new NotImplementedException();
+            base.TransferirParaOutraConta(quantia, outraConta, tarifaTransferir);
         }
     }
 }

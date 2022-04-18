@@ -11,11 +11,11 @@ namespace Laboratorio2_ContaAcme_correcao_
         const double tarifaSaque = 0.37 / 100;
         const double tarifaTransferir = 0.10 / 100;
 
-        public Corrente(string numeroConta, string nomeCorrentista, double saldoAtual):base(numeroConta,nomeCorrentista)
+        public Corrente(string numeroConta, string nomeCorrentista):base(numeroConta,nomeCorrentista)
         {
             
         }
-
+        
         public  void Sacar(double quantia)
         {
             base.Sacar(quantia, tarifaSaque);
