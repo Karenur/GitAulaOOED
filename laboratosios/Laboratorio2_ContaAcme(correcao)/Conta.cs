@@ -12,7 +12,7 @@ namespace Laboratorio2_ContaAcme_correcao_
         string nomeCorrentista;
         double saldoAtual;
 
-        protected Conta(string numeroConta, string nomeCorrentista, double saldoAtual)
+        protected Conta(string numeroConta, string nomeCorrentista)
         {
             this.numeroConta = numeroConta;
             this.nomeCorrentista = nomeCorrentista;
@@ -23,10 +23,57 @@ namespace Laboratorio2_ContaAcme_correcao_
         public string NomeCorrentista { get => nomeCorrentista;}
         public double SaldoAtual { get => saldoAtual;}
 
-        public abstract void Sacar();
-        public abstract void TransferirParaOutraConta(double quantia, Conta contaDestino);
-        public abstract void Depositar();
+        public virtual void Sacar(double quantia,double tarifaSaque)
+        {
+            double valorDebitado = quantia * (1 + tarifaSaque);
 
 
+            if (SaldoAtual >= (SaldoAtual + valorDebitado))
+            {
+                RedusirSaldo(valorDebitado);
+            }
+            else
+            {
+                throw new Exception("Nao foi possivel realizar saque");
+            }
+
+        }
+
+        public virtual void TransferirParaOutraConta(double quantia, Conta contaDestino, double tarifaTransferir)
+        {
+            double valorDebitado = quantia * (1 + tarifaTransferir);
+
+
+            if (SaldoAtual >= (SaldoAtual + valorDebitado))
+            {
+                RedusirSaldo(valorDebitado);
+                contaDestino.DepositarQuantia(quantia);
+            }
+            else
+            {
+                throw new Exception("Nao foi possivel realizar transferencia");
+            }
+
+        }
+
+
+
+        public double VerificarSaldo()
+        {
+            return saldoAtual;
+        }
+        public void DepositarQuantia(double quantia)
+        {
+            saldoAtual += quantia;
+        }
+
+        protected void RedusirSaldo(double quantia)
+        {
+            saldoAtual -= quantia;
+        }
+        protected void AlmentarSaldo(double quantia)
+        {
+            saldoAtual += quantia;
+        }
     }
 }

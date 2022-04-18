@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="abstrada.cs" />
+    <Compile Include="Poupanca.cs" />
     <Compile Include="Conta.cs" />
     <Compile Include="Corrente.cs" />
     <Compile Include="Program.cs" />
